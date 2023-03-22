@@ -1,10 +1,10 @@
-Basic Image Editor
+# GUI for Image Processing Algorithms
 
 In this project, the GUI is developed to load any image, apply image processing algorithms on the image, and store the image. The folder present here consists of three python files, main.py GUI_class.py and ImageProcessingAlgorithms.py, also it contains report about the project in PDF format, and a folder called project images where the image for background of the GUI is stored. 
 
 The main.py file should be executed on command terminal. The GUI_class.py consists of all the tkinter based GUI features. ImageProcessingAlgorithms.py consists of all the Image processing algorithms.
 
-How to run :
+## How to run :
 
 1. pip install -r requirements.txt
 2. python main.py
@@ -17,7 +17,7 @@ If error arises in sklearn module installing, follow the following steps :
 4. Again run using the two shell commands mentioned in the text.
 
 
-GUI description :
+## GUI description :
 
 Each and every feature of GUI is described with comments in the GUI_class.py file. Steps to use the GUI :
 
